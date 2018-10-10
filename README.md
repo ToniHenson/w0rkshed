@@ -1,2 +1,2 @@
 # w0rkshed
-First training repository
+First training repository ever
